@@ -29,16 +29,18 @@ f′(0)= −4
 x = 0 − (0.1)(−4) = 0.4
 
 Next iteration:
+
 f′(0.4) = 2(0.4) − 4 = −3.2
 
 x = 0.4 − (0.1)(−3.2) = 0.72
 
 Repeating this process converges toward:
-x=2
+x = 2
 
 Optimal Solution
 
 Minimum occurs at:
 x = 2
+
 f(2) = 0
 	​

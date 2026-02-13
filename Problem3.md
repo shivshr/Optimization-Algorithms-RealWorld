@@ -5,6 +5,8 @@ Given cost function:
 
 f(x)= x^2 − 4x + 4
 
+SOLUTION-:
+
 Step 1: Compute Derivative
 
 f′(x) = 2x − 4

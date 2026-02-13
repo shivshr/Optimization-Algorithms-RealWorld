@@ -23,11 +23,14 @@ x(new) = x(old)− αf′(x)
 Step 3: Iterative Updates
 
 Start with x = 0
+
 f′(0)= −4
+
 x = 0 − (0.1)(−4) = 0.4
 
 Next iteration:
 f′(0.4) = 2(0.4) − 4 = −3.2
+
 x = 0.4 − (0.1)(−3.2) = 0.72
 
 Repeating this process converges toward:
